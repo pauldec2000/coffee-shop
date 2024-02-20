@@ -140,9 +140,7 @@ const PaymentScreen = ({navigation, route}: any) => {
                       <Text style={styles.CreditCardNameSubitle}>
                         Card Holder Name
                       </Text>
-                      <Text style={styles.CreditCardNameTitle}>
-                        Robert Evans
-                      </Text>
+                      <Text style={styles.CreditCardNameTitle}>Simran</Text>
                     </View>
                     <View style={styles.CreditCardDateContainer}>
                       <Text style={styles.CreditCardNameSubitle}>
